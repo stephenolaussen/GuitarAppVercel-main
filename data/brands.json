@@ -10,5 +10,9 @@
     {
       "Id": 3,
       "query": "INSERT INTO Brands(Id, Name) VALUES(3, 'PRS')"
+    },
+    {
+      "Id": 4,
+      "query": "INSERT INTO Brands(Id, Name) VALUES(4, 'Ibanez')"
     }
    ]

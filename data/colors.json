@@ -10,5 +10,9 @@
     {
       "Id": 3,
       "query": "INSERT INTO Colors(Id, Name) VALUES(3, 'Charcoal Burst')"
+    },
+    {
+      "Id": 4,
+      "query": "INSERT INTO Colors(Id, Name) VALUES(4, 'Black')"
     }
    ]

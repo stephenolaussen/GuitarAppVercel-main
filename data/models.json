@@ -10,5 +10,9 @@
     {
       "Id": 3,
       "query": "INSERT INTO Models(Id, Name) VALUES(3, 'Custom 24')"
+    },
+    {
+      "Id": 4,
+      "query": "INSERT INTO Models(Id, Name) VALUES(4, 'Telecaster')"
     }
    ]

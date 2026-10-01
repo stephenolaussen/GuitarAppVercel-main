@@ -10,5 +10,9 @@
     {
       "Id": 3,
       "query": "INSERT INTO Guitars(Id, Year, Price, BrandId, ColorId, ModelId) VALUES(3, '2020-01-01 00:00:00', 3500, 3, 3, 3)"
+    },
+    {
+      "Id": 4,
+      "query": "INSERT INTO Guitars(Id, Year, Price, BrandId, ColorId, ModelId) VALUES(4, '2026-01-01 00:00:00', 4000, 4, 4, 4)"
     }
    ]
